@@ -1,5 +1,7 @@
 using NAudio.Wave;
 using System.Net;
+using System.Threading;
+using System.ComponentModel;
 
 namespace Quizzer
 {
@@ -16,6 +18,14 @@ namespace Quizzer
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            Thread.Sleep(100);
+        }
+
+
+        public static void NewThread()
+        {
+            var url = "https://sounds-mp3.com/mp3/0010834.mp3";
+            PlayMp3FromUrl(url);
         }
 
         public static void PlayMp3FromUrl(string url)
@@ -27,9 +37,14 @@ namespace Quizzer
                 wo.Play();
                 while (wo.PlaybackState == PlaybackState.Playing)
                 {
-                    Thread.Sleep(1);
+                    Thread.Sleep(100);
                 }
             }
+
         }
+
+        
     }
+
+    
 }
