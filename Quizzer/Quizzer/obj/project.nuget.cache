@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WZzExlLgmhunZJnJA+cIuXEI4oLZws05h8Timd+Db9sUGGZnB28Aq4VbyvzEQ7+AOngLZsK8O2NZJUYusnUSQA==",
+  "dgSpecHash": "KFIbF4GG/tjlSV1SALggsPmUdI+XPUrfb7pUDUxPVXGllHK1P7lXMpoRk7dIJKP5ZRk4x5on5N74SABwJTE4Vg==",
   "success": true,
   "projectFilePath": "D:\\Documents\\Code Projects\\Quizzer\\Quizzer\\Quizzer\\Quizzer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\naudio\\2.0.1\\naudio.2.0.1.nupkg.sha512",

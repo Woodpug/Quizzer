@@ -24,3 +24,4 @@ D:\Documents\Code Projects\Quizzer\Quizzer\Quizzer\bin\Debug\net6.0-windows\NAud
 D:\Documents\Code Projects\Quizzer\Quizzer\Quizzer\bin\Debug\net6.0-windows\NAudio.WinForms.dll
 D:\Documents\Code Projects\Quizzer\Quizzer\Quizzer\bin\Debug\net6.0-windows\NAudio.WinMM.dll
 D:\Documents\Code Projects\Quizzer\Quizzer\Quizzer\obj\Debug\net6.0-windows\Quizzer.csproj.CopyComplete
+D:\Documents\Code Projects\Quizzer\Quizzer\Quizzer\bin\Debug\net6.0-windows\CsvHelper.dll
